@@ -1,5 +1,4 @@
-maintainer       "Jorge Falcão"
-maintainer_email "falcao@intelie.com.br"
+name 'timezone'
 license          "MIT"
 description      "Configures timezone"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
